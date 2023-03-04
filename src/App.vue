@@ -7,9 +7,9 @@ import HelloWorld from './components/EventList.vue'
   <header>
 
     
-  <div class="d-flex justify-content-center align-items-center" style="height: 100vh;">
+  <div class="align-items-center" style="height: 100vh;">
 
-      <div class="justify-content-center text-center">
+      <div class="text-center">
         <nav>
           <h1>Eventum</h1>
           <RouterLink to="/">Home</RouterLink> | 
